@@ -5,5 +5,6 @@ class CoursesController < ApplicationController
 
   def show
     @course = Course.find(params[:id])
+    @Photo = Photo.new
   end
 end
