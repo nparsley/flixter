@@ -1,8 +1,9 @@
 class User < ApplicationRecord
   has_many :courses
-  has_many :photos
+  has_many :enrollments
+
   # Include default devise modules. Others available are:
-  # :confirmable, :lockable, :timeoutable, :trackable and :omniauthable
+  # :confirmable, :lockable, :timeoutable and :omniauthable
   devise :database_authenticatable, :registerable,
-         :recoverable, :rememberable, :validatable
+         :recoverable, :rememberable, :trackable, :validatable
 end
