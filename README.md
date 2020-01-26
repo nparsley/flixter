@@ -48,9 +48,15 @@
 * The user can then edit the course they are teaching by adding, deleting, or modifiying the course.
 
 
-
 # DASHBOARD
 
 <img src='coursesdashboard.PNG'>
 
 * Signed-in users can view a complete list of all courses that they are learning and teaching by clicking on the My Dashboard link.
+
+
+# FOOTER
+
+<img src='coursesfooter.PNG'>
+
+* Users can also view additional information about the platform, as well as contact information.
