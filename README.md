@@ -45,7 +45,11 @@
 <img src='coursesadminister2.PNG'>
 
 * Once a course is created, the signed-in user can view the course as an administer.
-* The user can then edit the course they are teaching by adding, deleting, or modifiying the course.
+
+<img src='coursesnewsection.PNG'>
+<img src='coursesnewlesson.PNG'>
+
+* The user can then edit the course they are teaching by adding new sections and lessons for the course.
 
 
 # DASHBOARD
