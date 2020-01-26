@@ -1,24 +1,56 @@
-# README
+# OVERVIEW
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* User-friendly video-streaming marketplace platform that features credit card payment capabilities, user role management, complex user interfaces, and advanced database
+  relationships.
 
-Things you may want to cover:
 
-* Ruby version
+# HOME PAGE
 
-* System dependencies
+<img src='flixterhome.PNG'>
 
-* Configuration
+* Users will be sent to the home page with the option to sign in or view a list of available courses.
 
-* Database creation
+# COURSES
 
-* Database initialization
+<img src='courses.PNG'>
 
-* How to run the test suite
+* Users will be able to view the list of courses available.
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+# STUDENTS
 
-* ...
+<img src='coursesoverview.PNG'>
+
+* Clicking on a course title will direct the user to that specific course page, which includes all of the sections and lessons available for the course.
+* Only signed-in users will be able to enroll in courses as students.
+
+<img src='coursesstripe.PNG'>
+
+* Once on the selected course page, the signed-in user will have the option to purchase the course via stripe payment as a student.  All listed sections and lessons will
+  become available once payment is made.
+* The total price for the course will be listed along with a form to enter credit card information.
+
+<img src='courseslessons.PNG'>
+
+* Enrolled students can click on a lesson that will provide a video for that specific lesson.
+
+
+# INSTRUCTORS
+
+<img src='coursesteachers.PNG'>
+
+* Signed-in users will be able to teach a course by clicking on the Teach a Course link.
+
+<img src='coursesadminister1.PNG'>
+<img src='coursesadminister2.PNG'>
+
+* Once a course is created, the signed-in user can view the course as an administer.
+* The user can then edit the course they are teaching by adding, deleting, or modifiying the course.
+
+
+
+# DASHBOARD
+
+<img src='coursesdashboard.PNG'>
+
+* Signed-in users can view a complete list of all courses that they are learning and teaching by clicking on the My Dashboard link.
