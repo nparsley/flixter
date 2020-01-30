@@ -46,6 +46,9 @@ h1, h2, h3, h4, h5, h6, .navbar {
   text-shadow: rgba(0, 0, 0, 0.95) 1px 1px;
 }
 
+.frosty h3 {
+  color: white;
+}
 
 .btn {
   border-radius: 0;
@@ -60,7 +63,6 @@ h1, h2, h3, h4, h5, h6, .navbar {
 body {
   background: image_url('darkpaths1');
   font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
-  color: white;
 }
 
 .booyah-box {
