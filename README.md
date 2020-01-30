@@ -2,6 +2,7 @@
 
 * User-friendly video-streaming marketplace platform that features credit card payment capabilities, user role management, complex user interfaces, and advanced database
   relationships.
+*  View the app here: <a href="https://flixter-nick-parsley.herokuapp.com/">Flixter</a>
 
 
 # HOME PAGE
