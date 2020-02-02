@@ -30,6 +30,7 @@
 * Once on the selected course page, the signed-in user will have the option to purchase the course via stripe payment as a student.  All listed sections and lessons will
   become available once payment is made.
 * The total price for the course will be listed along with a form to enter credit card information.
+* The test environment credit card information the user will use is 4242-4242-4242-4242 to make a payment.  Then the user will enter any future date and 3 digit CVC code.
 
 <img src='courseslessons.PNG'>
 
